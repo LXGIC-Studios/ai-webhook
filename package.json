@@ -1,7 +1,7 @@
 {
   "name": "ai-webhook",
   "version": "1.0.0",
-  "description": "Generate webhook handlers with retry logic using AI",
+  "description": "AI-powered webhook handler generator - secure webhook endpoints with GPT",
   "main": "dist/index.js",
   "bin": {
     "ai-webhook": "dist/cli.js"
@@ -9,7 +9,22 @@
   "scripts": {
     "build": "tsc"
   },
-  "keywords": ["webhook", "handler", "retry", "ai", "cli", "stripe", "api"],
+  "keywords": [
+    "ai",
+    "openai",
+    "gpt",
+    "webhook",
+    "api",
+    "events",
+    "integration",
+    "developer-tools",
+    "cli",
+    "automation",
+    "typescript",
+    "nodejs",
+    "http",
+    "callbacks"
+  ],
   "license": "MIT",
   "dependencies": {
     "commander": "^12.1.0",
